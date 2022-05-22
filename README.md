@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ookot
+- 👀 I’m interested in Python and Linux
+- 🌱 I’m currently learning Python in the networking field
+- 📫 ugarma13@gmail.com
